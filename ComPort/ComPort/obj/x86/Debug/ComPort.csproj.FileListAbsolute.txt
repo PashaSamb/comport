@@ -1,0 +1,8 @@
+F:\ProgramFiles\Development\С#\ComPort\ComPort\bin\Debug\ComPort.exe
+F:\ProgramFiles\Development\С#\ComPort\ComPort\bin\Debug\ComPort.pdb
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.Form1.resources
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.Properties.Resources.resources
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.csproj.GenerateResource.Cache
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.exe
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.pdb
+F:\ProgramFiles\Development\С#\ComPort\ComPort\obj\x86\Debug\ComPort.csprojResolveAssemblyReference.cache
